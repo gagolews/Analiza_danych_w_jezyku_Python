@@ -1,0 +1,13 @@
+nycflights13
+============
+
+This data has been exported from Hadley Wickam's `nycflights-0.1` 
+package for R. The package was released under the CC0 license.
+https://cran.fhcrc.org/web/packages/nycflights13/index.html
+
+*    flights  -- information about all flights that departed from NYC 
+                 (e.g., EWR, JFK and LGA) in 2013
+*    airports -- airport names and locations
+*    planes   -- construction information about each plane
+*    airlines -- translation between two letter carrier codes and names
+*    weather  -- hourly meteorological data for each airport
