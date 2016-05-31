@@ -1,15 +1,13 @@
 """
-To jest moj pierwszy modul / skrypt pythonowy.
-W tym momencie tworze dla niego docstringa.
-To jest pierwszy napis w tym pliku.
+To jest mój pierwszy moduł. Niniejszy napis (docstring)
+stanowi jego dokumentację.
 """
 
-print("Laduje modul o nazwie: "+__name__)
+print("Ładuję moduł o nazwie: " + __name__)
 
-zmienna1 = 1
+zmienna1    = 1
+__zmienna2  = 2
 
 def funkcja(x):
-    """
-    Podnosi do kwadratu dana liczbe.
-    """
+    "Podnosi do kwadratu daną liczbę."
     return x**2

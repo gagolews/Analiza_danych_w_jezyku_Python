@@ -1,2 +1,3 @@
-if __name__=='__main__':
-    print("Mielonka, jajka i mielonka!")
+import os
+print("__file__ = " + __file__)
+print("__name__ = " + __name__)
