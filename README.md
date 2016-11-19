@@ -35,6 +35,7 @@ otwartej licencji BSD-2-clause i stanowią materiał uzupełniający do książk
 > Informatyki PAN w ramach *International Ph.D. Studies Program*
 > (m.in. w dziedzinie analizy i agregacji danych).
 
-Więcej informacji [Programowanie w języku R](http://www.gagolewski.com/publications/programowanier/).
+Więcej informacji [na stronie WWW książki](http://gagolewski.com/publications/programowaniepy).
 
-Zobacz też: [Przetwarzanie i analiza danych w języku Python](http://gagolewski.com/publications/programowaniepy).
+Zobacz też: [Programowanie w języku R](http://www.gagolewski.com/publications/programowanier/).
+
