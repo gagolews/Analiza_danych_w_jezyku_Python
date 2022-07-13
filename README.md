@@ -19,7 +19,10 @@ ISBN:
 [Link do księgarni
 PWN](http://ksiegarnia.pwn.pl/Przetwarzanie-i-analiza-danych-w-jezyku-Python,634359876,p.html)
 
-Zobacz też: [Programowanie w języku R](https://github.com/gagolews/Programowanie_w_jezyku_R/).
+Zobacz też: 
+
+* [Programowanie w języku R](https://github.com/gagolews/Programowanie_w_jezyku_R/)
+* [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com/)
 
 
 ## Materiały uzupełniające
