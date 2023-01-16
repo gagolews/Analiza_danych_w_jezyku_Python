@@ -1,5 +1,13 @@
 # Przetwarzanie i analiza danych w języku Python (2016) #
 
+> **Zobacz też**:  ⚠⚠⚠ 
+> 
+> * [*Minimalist Data Wrangling with Python*](https://datawranglingpy.gagolewski.com/)
+> * [*Deep R Programming*](https://deepr.gagolewski.com/)
+> * [*Programowanie w języku R*](https://github.com/gagolews/Programowanie_w_jezyku_R/)
+
+--------------------------------------------------
+
 ![Okładka](przetwarzanie_i_analiza_danych_w_jezyku_python.jpg "Okładka")
 
 Autorzy:
@@ -18,11 +26,6 @@ ISBN:
 
 [Link do księgarni
 PWN](http://ksiegarnia.pwn.pl/Przetwarzanie-i-analiza-danych-w-jezyku-Python,634359876,p.html)
-
-Zobacz też: 
-
-* [Programowanie w języku R](https://github.com/gagolews/Programowanie_w_jezyku_R/)
-* [Minimalist Data Wrangling with Python](https://datawranglingpy.gagolewski.com/)
 
 
 ## Materiały uzupełniające
